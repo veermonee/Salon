@@ -1,0 +1,8 @@
+{
+  "name": "SmartSalon",
+  "description": "A comprehensive mobile-first salon management and booking application connecting customers with salon owners.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
